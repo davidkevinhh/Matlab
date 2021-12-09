@@ -1,2 +1,2 @@
 # Matlab
-Mostly about Numerical Methods and Analysis. Done with MATLA
+Mostly about Numerical Methods and Analysis. Done with MATLAB
